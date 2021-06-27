@@ -1,0 +1,1 @@
+"This is Aizat's first git project"
